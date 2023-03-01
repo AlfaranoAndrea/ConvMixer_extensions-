@@ -1,0 +1,6 @@
+{   "batch-size": 1,
+    "lr": 2e-3,
+    "workers": 8,
+    "epochs" :10,
+    "gpu" : [0 ,1]
+}
